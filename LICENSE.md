@@ -1,4 +1,5 @@
 KERASISE-EULA
+
 KERASISE-EULA 최종 사용자 동의서 최종 사용자 라이선스 동의서(EULA)
 
 서문 KERASISE-EULA 최종 사용자 동의서는 소프트웨어 저작물에 대한 카피라이선스이며 KERASISE-EULA가 적용된 모든 플러그인을 사용할시 KERASISE-EULA의 동의하는 것으로 간주하며 모든 상업적 이득 및 코드수정 행위를 금지한다.
